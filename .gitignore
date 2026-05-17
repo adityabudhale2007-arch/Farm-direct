@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+.firebase/
+firebase-debug.log
+firestore-debug.log
+database-debug.log
+ui-debug.log
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+farmconnect.db
+farmconnect.db-*
